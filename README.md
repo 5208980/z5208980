@@ -4,3 +4,9 @@
 
 - [Blog](https://z5208980.github.io/) 📓
 - [Website](https://z5208980.github.io/me/) 💻
+
+<h4> 
+  <a href="https://z5208980.github.io/blog">Blog</a> • 
+  <a href="https://z5208980.github.io/me/">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/pitatoran/">Linkedin</a>
+</h4>

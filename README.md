@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/pitatoran/">Linkedin</a>
 </h4>
 
-<div style="  width:100%; display: flex; justify-content: center;">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z5208980&layout=compact&theme=algolia)](https://github.com/z5208980)
 

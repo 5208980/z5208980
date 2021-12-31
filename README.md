@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z5208980&layout=compact&theme=nord_dark&langs_count=10)](https://github.com/z5208980)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z5208980&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/z5208980)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=z5208980)
 </div>
